@@ -1,2 +1,2 @@
 # Algorithms-Leetcode
-My solution collection of LeetCode algorithm questions1
+My solution collection of LeetCode algorithm questions!
